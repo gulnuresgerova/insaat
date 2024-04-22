@@ -1,0 +1,64 @@
+{
+  "products": [
+    {
+      "id": "d282",
+      "name": "Sunt omnis qui vero ",
+      "price": "92",
+      "imgUrl": "https://omid.az/upload/API/2daeac69f856fb08f7ed9dc9932a210f.jpg"
+    },
+    {
+      "id": "7d9e",
+      "name": "Est sint et do ipsu",
+      "price": "87",
+      "imgUrl": "https://omid.az/upload/API/d3d003fd9ad6b3b2f8a99685aa9b2084.jpg"
+    },
+    {
+      "id": "b6d0",
+      "name": "Facere voluptates de",
+      "price": "33",
+      "imgUrl": "https://omid.az/upload/API/99d63ffb7bf54414d634d00983a7a15f.jpg"
+    },
+    {
+      "id": "17c4",
+      "name": "Est blanditiis archi",
+      "price": "47",
+      "imgUrl": "https://omid.az/upload/API/a110209d7df4ddcaf16ba12d2e9bfb14.jpg"
+    },
+    {
+      "id": "7d9e",
+      "name": "ipsu",
+      "price": "99",
+      "imgUrl": "https://www.1001home.com/image/cache/catalog/products/AVM.01.00410-550x550.webp"
+    },
+    {
+      "id": "b6d0",
+      "name": "Facere voluptates de",
+      "price": "33",
+      "imgUrl": "https://omid.az/upload/API/5392f3452373402d6681ff5fdfd9f0fc.jpg"
+    },
+    {
+      "id": "17c4",
+      "name": "Est blanditiis archi",
+      "price": "47",
+      "imgUrl": "https://omid.az/upload/API/a110209d7df4ddcaf16ba12d2e9bfb14.jpg"
+    },
+    {
+      "id": "7d9e",
+      "name": "Est sint et do ipsu",
+      "price": "87",
+      "imgUrl": "https://omid.az/upload/API/d3d003fd9ad6b3b2f8a99685aa9b2084.jpg"
+    },
+    {
+      "id": "b6d0",
+      "name": "Facere voluptates de",
+      "price": "33",
+      "imgUrl": "https://omid.az/upload/API/5392f3452373402d6681ff5fdfd9f0fc.jpg"
+    },
+    {
+      "id": "17c4",
+      "name": "Est blanditiis archi",
+      "price": "47",
+      "imgUrl": "https://www.1001home.com/image/cache/catalog/products/AVM.01.00410-550x550.webp"
+    }
+  ]
+}
